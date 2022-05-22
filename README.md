@@ -1,5 +1,4 @@
-# Attribute Information: (class attribute has been moved to last column)
-## Attribute Domain
+Attribute Information: (class attribute has been moved to last column)
 -- -----------------------------------------
 1. Sample code number id number
 2. Clump Thickness 1 - 10
